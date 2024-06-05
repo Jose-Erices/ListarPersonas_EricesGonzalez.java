@@ -9,5 +9,8 @@
         <module name="ListarPersonas_EricesGonzalez.java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ListarPersonas_EricesGonzalez.java" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

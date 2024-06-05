@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98e85560-7e22-47f6-bd28-e219688c6c49" name="Changes" comment="" />
+    <list default="true" id="98e85560-7e22-47f6-bd28-e219688c6c49" name="Changes" comment="Se realiza entregable 2 Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +17,40 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/ListarPersonas" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jose-Erices"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jose-Erices/ListarPersonas_EricesGonzalez.java.git",
+    "accountId": "89dd2fbb-3315-4789-89f4-4339096f00bb"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2hRFoEBIvrapuLkf2yJcTZwESKc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +59,9 @@
   "keyToString": {
     "Application.Persona_metodo_main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/José Erices/Downloads/ListarPersonas_EricesGonzalez.java/src/main/java/ListarPersonas",
     "onboarding.tips.debug.path": "C:/Users/José Erices/Downloads/ListarPersonas_EricesGonzalez.java/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -62,17 +94,31 @@
       <option name="presentableId" value="Default" />
       <updated>1717549158334</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se realiza entregable 2 Java">
+      <option name="closed" value="true" />
+      <created>1717553464144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717553464144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se crea una Rama Local" />
+    <MESSAGE value="Se realiza entregable 2 Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se realiza entregable 2 Java" />
   </component>
 </project>
